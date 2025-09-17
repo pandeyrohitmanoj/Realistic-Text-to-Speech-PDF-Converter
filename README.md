@@ -7,4 +7,3 @@ Setup:
 
 To create environment: 
 conda env create -f environment.yml
-npm i
